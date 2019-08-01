@@ -5,4 +5,4 @@ for this file.
 
 predict.ipynb = predicts the average audience score with given features 
 
-**Please upgrade pandas to 0.25.0 if you want to look at predict.ipynb.**
+**Please upgrade pandas to 0.25.0 and install the gensim module if you want to look at predict.ipynb.**
